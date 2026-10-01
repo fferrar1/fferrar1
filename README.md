@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi there! I'm a 19-year-old from the countryside of São Paulo with a passion for programming. I love diving into new coding challenges and am always looking for ways to evolve my skills.
+👋 Hi there! I'm a 21-year-old from the countryside of São Paulo with a passion for programming. I love diving into new coding challenges and am always looking for ways to evolve my skills.
 
 Outside of tech, you can find me with a book in hand 📖, experimenting with new recipes in the kitchen🎂, or exploring the latest fashion trends 👗 and historical stories that inspire me. I'm all about combining creativity with logic, and I believe there's always something new to learn.
 
